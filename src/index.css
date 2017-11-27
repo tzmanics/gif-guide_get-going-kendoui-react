@@ -1,5 +1,9 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  background: url(https://ak2.picdn.net/shutterstock/videos/3898370/thumb/1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Helvetica, 'Arial Narrow Bold', sans-serif;
+  margin: 5em;
 }
